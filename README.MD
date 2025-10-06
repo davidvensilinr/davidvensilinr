@@ -91,3 +91,20 @@
 </p>
 
 ---
+## 💼 Projects
+
+### [📌 DigiScaler1](https://github.com/davidvensilinr/digi_scaler1)  
+**Influencer-Brand Collaborative Platform**  
+A full-stack platform that connects influencers and brands for collaboration opportunities. Features include campaign creation, influencer discovery, analytics dashboard, and secure messaging.  
+🔗 [View Project](https://github.com/davidvensilinr/digi_scaler1)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
+![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
+
+---
+
+### [📌 Code Vulnerability Scanner](https://github.com/davidvensilinr/code_vulnerability_scanner)  
+**Automated Code Vulnerability Detection Tool**  
+A Python-based tool designed to analyze code for vulnerabilities and potential exploits. Includes detailed reports, severity ranking, and integration capabilities for CI/CD pipelines.  
+🔗 [View Project](https://github.com/davidvensilinr/code_vulnerability_scanner)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
+![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
