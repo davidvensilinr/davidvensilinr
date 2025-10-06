@@ -80,3 +80,59 @@ A full-stack platform that connects influencers and brands for collaboration opp
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
 
 ---
+<!-- Codolio Style Stats Card for GitHub README -->
+<div align="center" style="font-family: Arial, sans-serif; max-width: 700px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+
+<h2 style="margin-bottom: 5px;">🎴 Codolio Stats Card</h2>
+<h3 style="margin-top: 0;">David Vensilin R (@david_vensilin)</h3>
+<p>📍 India • 🎓 Kalaignar Karunanidhi Institute of Technology</p>
+
+<hr style="margin: 15px 0;">
+
+<div style="display: flex; justify-content: space-around; text-align: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="30" alt="LeetCode">
+    <p><b>LeetCode</b><br>1</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="30" alt="CodeChef">
+    <p><b>CodeChef</b><br>58</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" alt="CodeForces">
+    <p><b>CodeForces</b><br>1</p>
+  </div>
+</div>
+
+<hr style="margin: 15px 0;">
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Global Rank</b><br>#5265</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Profile Views</b><br>48</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Total Questions</b><br>1005</p>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Total Active Days</b><br>227</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Max Streak</b><br>22</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <p><b>Current Streak</b><br>0</p>
+  </div>
+</div>
+
+<hr style="margin: 15px 0;">
+
+<p style="text-align: center;">📅 <b>Total Contests:</b> 60</p>
+
+</div>
+
