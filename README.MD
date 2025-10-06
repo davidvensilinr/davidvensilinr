@@ -37,37 +37,47 @@
 - Enhancing skills in **system design** and **scalable architecture**
 
 ---
-
-<h2>
-  <img src="https://img.icons8.com/material-outlined/28/20C997/github.png" alt="GitHub Insights" /> GitHub Insights
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333" height="160" />
-</p>
-
 ---
 
-<h2>
-  <img src="https://img.icons8.com/material-outlined/28/20C997/activity-history.png" alt="Contribution Activity" /> Contribution Activity
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=20C997&line=20C997&hide_border=true" />
-</p>
-
----
-
+<!-- Connect With Me -->
 <h2 align="center">
-  <img src="https://img.icons8.com/material-outlined/28/20C997/contacts.png" alt="Connect With Me" /> Connect With Me
+  <img src="https://img.icons8.com/ios-filled/28/20C997/link.png" alt="Connect With Me" /> Connect With Me
 </h2>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidvensilinr)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidvensilinr@gmail.com)
+  <a href="https://linkedin.com/in/davidvensilinr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:davidvensilinr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
 
-<p align="center">
-  <i>Always curious, always learning — building technology that makes a difference.</i>
+<p align="center" style="font-style:italic; color:gray;">
+  Always curious, always learning — building technology that makes a difference.
 </p>
+
+---
+
+<!-- GitHub Insights -->
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-filled/28/20C997/combo-chart--v1.png" alt="GitHub Insights" /> GitHub Insights
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333" height="160" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333" height="160" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
+</p>
+
+---
+
+<!-- Contribution Activity -->
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-filled/28/20C997/activity-history.png" alt="Contribution Activity" /> Contribution Activity
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=20C997&line=20C997&hide_border=true" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
+</p>
+
+---
