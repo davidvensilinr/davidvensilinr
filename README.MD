@@ -2,19 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20C997&height=180&section=header&text=David%20Vensilin%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
-
 <p align="center">
   <strong>Computer Science and Engineering (AI & ML) Student | Full-Stack Developer | AI Enthusiast</strong>
 </p>
 
 <p align="center">
-  Passionate about designing <strong>intelligent systems</strong> and building <strong>scalable web solutions</strong>.<br>
+  Passionate about designing intelligent systems and building scalable web solutions.<br>
   Focused on combining <strong>software engineering</strong> and <strong>artificial intelligence</strong> to create meaningful impact.
 </p>
 
 ---
 
-## 💻 Technical Stack  
+<h2>
+  <img src="https://img.icons8.com/material-outlined/28/20C997/code.png" alt="Technical Stack" /> Technical Stack
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +28,9 @@
 
 ---
 
-## 🎯 Current Focus  
+<h2>
+  <img src="https://img.icons8.com/material-outlined/28/20C997/target.png" alt="Current Focus" /> Current Focus
+</h2>
 
 - Developing robust **full-stack applications**  
 - Exploring **AI/ML** to build intelligent systems  
@@ -35,43 +38,34 @@
 
 ---
 
-## 📊 GitHub Insights  
-
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-
-  <div style="background: linear-gradient(135deg, #0A66C2, #1e3a8a); border-radius:15px; padding:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff" height="160" style="border-radius:10px;" />
-  </div>
-
-  <div style="background: linear-gradient(135deg, #00c6ff, #0072ff); border-radius:15px; padding:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=ffffff&text_color=ffffff" height="160" style="border-radius:10px;" />
-  </div>
-
-</div>
-
----
-
-## 📈 Contribution Activity  
-
-<div align="center" style="background: linear-gradient(135deg, #ff8a00, #e52e71); padding:15px; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=0A66C2&line=0A66C2&hide_border=true" style="border-radius:10px;" />
-</div>
-
----
-
-
-## 🤝 Connect With Me  
+<h2>
+  <img src="https://img.icons8.com/material-outlined/28/20C997/github.png" alt="GitHub Insights" /> GitHub Insights
+</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-vensilin-r-5262642a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/davidVensilinr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:kit27.am11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333" height="160" />
+</p>
+
+---
+
+<h2>
+  <img src="https://img.icons8.com/material-outlined/28/20C997/activity-history.png" alt="Contribution Activity" /> Contribution Activity
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=20C997&line=20C997&hide_border=true" />
+</p>
+
+---
+
+<h2>
+  <img src="https://img.icons8.com/material-outlined/28/20C997/contacts.png" alt="Connect With Me" /> Connect With Me
+</h2>
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidvensilinr){:target="_blank"}  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidvensilinr@gmail.com)
 </p>
 
 ---
