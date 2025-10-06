@@ -59,16 +59,14 @@
 
 ---
 
-<h2>
+<h2 align="center">
   <img src="https://img.icons8.com/material-outlined/28/20C997/contacts.png" alt="Connect With Me" /> Connect With Me
 </h2>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidvensilinr){:target="_blank"}  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidvensilinr)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidvensilinr@gmail.com)
 </p>
-
----
 
 <p align="center">
   <i>Always curious, always learning — building technology that makes a difference.</i>
