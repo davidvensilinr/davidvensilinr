@@ -203,9 +203,6 @@ pie title Problem Solving Distribution
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}, 'chart': {'width': '100%', 'height': '300px'}}}%%
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
 pie title Most Used Languages
     "C" : 431
     "Python" : 350
