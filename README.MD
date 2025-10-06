@@ -108,45 +108,52 @@ A Python-based tool designed to analyze code for vulnerabilities and potential e
 🔗 [View Project](https://github.com/davidvensilinr/code_vulnerability_scanner)  
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
-
-<!-- Codolio Card -->
+<!-- Stylish Codolio Card -->
 <h2 align="center">
   <img src="https://img.icons8.com/ios-filled/28/20C997/combo-chart--v1.png" alt="Codolio" /> Codolio Profile
 </h2>
 
-<div align="center" style="border:2px solid #20C997; border-radius:12px; padding:20px; max-width:800px; background:#f9f9f9; box-shadow:0px 4px 12px rgba(0,0,0,0.1);">
-  <h3 style="margin-bottom:5px;">David Vensilin R</h3>
-  <p style="margin:0; color:gray;">@david_vensilin | India</p>
-  <p style="margin-top:5px; font-size:14px; color:#555;">Kalaignar Karunanidhi Institute of Technology</p>
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:900px;">
 
-  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+  <!-- Left Side: Profile Info -->
+  <div style="flex:1; min-width:300px; border:2px solid #20C997; border-radius:12px; padding:20px; background:#fdfdfd; box-shadow:0px 4px 12px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom:5px;">David Vensilin R</h3>
+    <p style="margin:0; color:gray;">@david_vensilin | India</p>
+    <p style="margin-top:5px; font-size:14px; color:#555;">Kalaignar Karunanidhi Institute of Technology</p>
 
-  <h4 style="color:#20C997;">📊 Problem Solving Stats</h4>
-  <table style="width:100%; text-align:center; font-size:14px; border-collapse:collapse;">
-    <tr style="background:#e8f5f2;">
-      <th>Platform</th>
-      <th>Questions</th>
-    </tr>
-    <tr><td>LeetCode</td><td>1</td></tr>
-    <tr><td>CodeChef</td><td>58</td></tr>
-    <tr><td>CodeForces</td><td>1</td></tr>
-  </table>
+    <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
-  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+    <h4 style="color:#20C997;">🏆 Development Stats</h4>
+    <table style="width:100%; font-size:14px; border-collapse:collapse;">
+      <tr><td><b>Global Rank:</b></td><td>5265</td></tr>
+      <tr><td><b>Profile Views:</b></td><td>48</td></tr>
+      <tr><td><b>Total Questions:</b></td><td>1005</td></tr>
+      <tr><td><b>Total Active Days:</b></td><td>227</td></tr>
+      <tr><td><b>Submissions:</b></td><td>812</td></tr>
+      <tr><td><b>Max Streak:</b></td><td>22</td></tr>
+      <tr><td><b>Current Streak:</b></td><td>0</td></tr>
+      <tr><td><b>Total Contests:</b></td><td>60</td></tr>
+    </table>
+    <p style="font-size:12px; color:gray; margin-top:10px;">Last Refresh: 06 Oct 2025 | Profile Visibility: Public</p>
+  </div>
 
-  <h4 style="color:#20C997;">🏆 Development Stats</h4>
-  <table style="width:100%; text-align:left; font-size:14px;">
-    <tr><td>Global Rank:</td><td><b>5265</b></td></tr>
-    <tr><td>Profile Views:</td><td><b>48</b></td></tr>
-    <tr><td>Total Questions:</td><td><b>1005</b></td></tr>
-    <tr><td>Total Active Days:</td><td><b>227</b></td></tr>
-    <tr><td>Submissions:</td><td><b>812</b></td></tr>
-    <tr><td>Max Streak:</td><td><b>22</b></td></tr>
-    <tr><td>Current Streak:</td><td><b>0</b></td></tr>
-    <tr><td>Total Contests:</td><td><b>60</b></td></tr>
-  </table>
-
-  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
-
-  <p style="font-size:14px; color:gray;">Last Refresh: 06 Oct 2025 | Profile Visibility: Public</p>
+  <!-- Right Side: Problem Solving Stats -->
+  <div style="flex:1; min-width:300px; border:2px solid #20C997; border-radius:12px; padding:20px; background:#fdfdfd; box-shadow:0px 4px 12px rgba(0,0,0,0.1);">
+    <h4 style="color:#20C997; margin-bottom:10px;">📊 Problem Solving Stats</h4>
+    <table style="width:100%; text-align:left; font-size:14px; border-collapse:collapse;">
+      <tr style="background:#e8f5f2;">
+        <th style="padding:8px;">Platform</th>
+        <th style="padding:8px;">Questions</th>
+      </tr>
+      <tr><td><img src="https://img.icons8.com/color/24/000000/leetcode.png"/> LeetCode</td><td>1</td></tr>
+      <tr><td><img src="https://img.icons8.com/color/24/000000/codechef.png"/> CodeChef</td><td>58</td></tr>
+      <tr><td><img src="https://img.icons8.com/color/24/000000/codeforces.png"/> CodeForces</td><td>1</td></tr>
+    </table>
+    <h4 style="color:#20C997; margin-top:20px;">📅 Contest Stats</h4>
+    <table style="width:100%; text-align:left; font-size:14px;">
+      <tr><td><img src="https://img.icons8.com/ios-filled/20/000000/competition.png"/> Total Contests:</td><td>60</td></tr>
+      <tr><td><img src="https://img.icons8.com/ios-filled/20/000000/trophy.png"/> Max Streak:</td><td>22</td></tr>
+      <tr><td><img src="https://img.icons8.com/ios-filled/20/000000/calendar.png"/> Active Days:</td><td>227</td></tr>
+    </table>
+  </div>
 </div>
