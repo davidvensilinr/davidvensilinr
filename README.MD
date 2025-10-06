@@ -93,7 +93,7 @@
 ---
 ## 💼 Projects
 
-### [📌 DigiScaler1](https://github.com/davidvensilinr/digi_scaler1)  
+### <img src="https://img.icons8.com/ios-filled/24/20C997/project.png" alt="project icon" /> [DigiScaler1](https://github.com/davidvensilinr/digi_scaler1)  
 **Influencer-Brand Collaborative Platform**  
 A full-stack platform that connects influencers and brands for collaboration opportunities. Features include campaign creation, influencer discovery, analytics dashboard, and secure messaging.  
 🔗 [View Project](https://github.com/davidvensilinr/digi_scaler1)  
@@ -102,7 +102,7 @@ A full-stack platform that connects influencers and brands for collaboration opp
 
 ---
 
-### [📌 Code Vulnerability Scanner](https://github.com/davidvensilinr/code_vulnerability_scanner)  
+### <img src="https://img.icons8.com/ios-filled/24/20C997/code.png" alt="code icon" /> [Code Vulnerability Scanner](https://github.com/davidvensilinr/code_vulnerability_scanner)  
 **Automated Code Vulnerability Detection Tool**  
 A Python-based tool designed to analyze code for vulnerabilities and potential exploits. Includes detailed reports, severity ranking, and integration capabilities for CI/CD pipelines.  
 🔗 [View Project](https://github.com/davidvensilinr/code_vulnerability_scanner)  
