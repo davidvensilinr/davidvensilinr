@@ -97,81 +97,43 @@
 
 </div>
 
-### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25px"/> Platform-wise Problem Solving
+### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25px"/> Problems Solved
 
 <div align="center">
 
-#### DSA & Problem Solving
+#### Fundamentals
 
-<table>
-<tr>
-<td align="center" width="50%">
+![Fundamentals](https://img.shields.io/badge/Fundamentals-127-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white)
 
-**LeetCode**
+#### GFG
+
+![GFG](https://img.shields.io/badge/GFG-61-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+#### HackerRank
+
+![HackerRank](https://img.shields.io/badge/HackerRank-66-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+#### DSA
+
+![DSA](https://img.shields.io/badge/DSA-443-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
+
+##### LeetCode
 
 ![Easy](https://img.shields.io/badge/Easy-203-5CB85C?style=flat-square&logo=leetcode&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-223-F0AD4E?style=flat-square&logo=leetcode&logoColor=white)
 ![Hard](https://img.shields.io/badge/Hard-17-D9534F?style=flat-square&logo=leetcode&logoColor=white)
 
-**Total: 443 Problems**
-
-</td>
-<td align="center" width="50%">
-
-**GeeksforGeeks**
-
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-61-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
-
-**Institute: KKIT**
-
-</td>
-</tr>
-</table>
-
 #### Competitive Programming
 
-<table>
-<tr>
-<td align="center" width="50%">
+![Total](https://img.shields.io/badge/Total-435-20C997?style=for-the-badge)
 
-**CodeChef**
+##### CodeChef
 
-![Rating](https://img.shields.io/badge/Rating-1412-5B4638?style=flat-square&logo=codechef&logoColor=white)
-![Max Rating](https://img.shields.io/badge/Max_Rating-1433-5B4638?style=flat-square&logo=codechef&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-431-5B4638?style=flat-square&logo=codechef&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-431-5B4638?style=flat-square&logo=codechef&logoColor=white)
 
-</td>
-<td align="center" width="50%">
+##### Codeforces
 
-**Codeforces**
-
-![Rating](https://img.shields.io/badge/Rating-396_(Newbie)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-4-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-#### Fundamentals & Practice
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**HackerRank**
-
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-66-00EA64?style=flat-square&logo=hackerrank&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**CodeStudio**
-
-![Fundamentals](https://img.shields.io/badge/Fundamentals-127-FF6B35?style=flat-square&logo=codingninjas&logoColor=white)
-
-</td>
-</tr>
-</table>
+![Codeforces](https://img.shields.io/badge/Codeforces-4-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
 
 </div>
 
@@ -285,7 +247,4 @@ An intelligent Python security analysis tool that identifies vulnerabilities and
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
   
-  <p><sub>Open to collaborations and exciting opportunities</sub></p>
-  
-  <sub>From [DavidVensilinR](https://github.com/DavidVensilinR) | Last Updated: October 2025</sub>
 </div>
