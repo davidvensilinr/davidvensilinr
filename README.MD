@@ -20,7 +20,6 @@
 
 ## <img src="https://img.icons8.com/fluency/48/000000/user-male-circle.png" width="30px"/> About Me
 
-### About Me
 - **Role:** Full-Stack Developer & AI/ML Enthusiast
 - **Education:** Computer Science and Engineering (AI & ML)
 - **Institution:** Kalaignar Karunanidhi Institute of Technology
