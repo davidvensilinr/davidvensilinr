@@ -101,39 +101,59 @@
 
 <div align="center">
 
-#### Fundamentals
+<table>
+<tr>
+<td align="center" width="33.3%">
+
+#### Fundamentals & Practice
 
 ![Fundamentals](https://img.shields.io/badge/Fundamentals-127-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white)
 
-#### GFG
+---
 
 ![GFG](https://img.shields.io/badge/GFG-61-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-#### HackerRank
+---
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-66-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
-#### DSA
+</td>
 
-![DSA](https://img.shields.io/badge/DSA-443-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
+<td align="center" width="33.3%">
 
-##### LeetCode
+#### DSA (LeetCode)
 
-![Easy](https://img.shields.io/badge/Easy-203-5CB85C?style=flat-square&logo=leetcode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-223-F0AD4E?style=flat-square&logo=leetcode&logoColor=white)
-![Hard](https://img.shields.io/badge/Hard-17-D9534F?style=flat-square&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/Total-443-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
+
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Easy-203-5CB85C?style=flat-square&logo=leetcode&logoColor=white" alt="Easy" style="margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Medium-223-F0AD4E?style=flat-square&logo=leetcode&logoColor=white" alt="Medium" style="margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Hard-17-D9534F?style=flat-square&logo=leetcode&logoColor=white" alt="Hard" style="margin: 2px;"/>
+</div>
+
+</td>
+
+<td align="center" width="33.3%">
 
 #### Competitive Programming
 
 ![Total](https://img.shields.io/badge/Total-435-20C997?style=for-the-badge)
 
+---
+
 ##### CodeChef
 
-![CodeChef](https://img.shields.io/badge/CodeChef-431-5B4638?style=flat-square&logo=codechef&logoColor=white)
+![CodeChef](https://img.shields.io/badge/Problems-431-5B4638?style=flat-square&logo=codechef&logoColor=white)
+
+---
 
 ##### Codeforces
 
-![Codeforces](https://img.shields.io/badge/Codeforces-4-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Problems-4-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
