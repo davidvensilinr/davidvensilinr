@@ -8,7 +8,7 @@
 
 <p align="center">
   Passionate about designing <strong>intelligent systems</strong> and building <strong>scalable web solutions</strong>.<br>
-  Focused on combining <strong>Software Engineering</strong> and <strong>Artificial Intelligence</strong> to create meaningful impact.
+  Focused on combining <strong>software engineering</strong> and <strong>artificial intelligence</strong> to create meaningful impact.
 </p>
 
 ---
@@ -32,9 +32,9 @@
   <img src="https://img.icons8.com/?size=28&id=44644&format=png&color=0A66C2" /> Current Focus
 </h2>
 
-- Developing robust **Full-Stack Applications**
-- Exploring **Artificial Intelligence** and **Machine Learning** for intelligent system design  
-- Enhancing expertise in **System Design**, **Scalable Architecture**, and **Problem Solving**
+- Developing robust **full-stack applications**  
+- Exploring **AI/ML** to build **intelligent systems**  
+- Enhancing skills in **system design** and **scalable architecture**
 
 ---
 
@@ -43,12 +43,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=default&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=222222&bg_color=ffffff&hide_rank=false&custom_title=David's%20GitHub%20Statistics" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=default&border_color=0A66C2&title_color=0A66C2&text_color=222222&bg_color=ffffff" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidVensilinR&theme=flat&no-frame=true&margin-w=15&title=Commit,Repositories,Followers,Stars&column=4&title_color=0A66C2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=github_dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=ffffff" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=github_dark&hide_border=true&title_color=0A66C2&text_color=ffffff" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -58,7 +54,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=github-light&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=github&hide_border=true&color=0A66C2&line=0A66C2" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -68,16 +64,12 @@
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/davidvensilinr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=davidvensilinr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidvensilinr){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.am11@gmail.com)
 </p>
 
 ---
 
 <p align="center">
-  <i><strong>Always curious, always learning</strong> — dedicated to building technology that <strong>makes a real impact</strong>.</i>
+  <i>Always curious, always learning — building technology that makes a difference.</i>
 </p>
