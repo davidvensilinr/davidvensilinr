@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=20C997&height=200&section=header&text=David%20Vensilin%20R&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20Technology%20That%20Matters&descAlign=center&descSize=18&descColor=ffffff" alt="banner" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
+  <img src="https://capsule-render.vercel.app/api?type=typer&color=20C997&height=200&section=header&text=David%20Vensilin%20R&fontSize=40&fontColor=ffffff&animation=typing&fontAlignY=40&desc=Building%20Technology%20That%20Matters&descAlign=center&descSize=18&descColor=ffffff" alt="banner" style="border-radius:12px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
 </p>
-
 
 <p align="center">
   <strong>Computer Science and Engineering (AI & ML) Student | Full-Stack Developer | AI Enthusiast</strong>
