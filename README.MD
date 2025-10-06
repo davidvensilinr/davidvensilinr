@@ -59,15 +59,24 @@
 
 ---
 
+---
+
 <!-- GitHub Insights -->
 <h2 align="center">
   <img src="https://img.icons8.com/ios-filled/28/20C997/combo-chart--v1.png" alt="GitHub Insights" /> GitHub Insights
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333" height="160" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333" height="160" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
+<p align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333&border_radius=12" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333&border_radius=12" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
+
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVensilinR&theme=radical&hide_border=true&stroke=20C997&background=0D1117&ring=20C997&fire=20C997&currStreakLabel=20C997" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
 </p>
+
 
 ---
 
