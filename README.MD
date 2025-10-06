@@ -20,18 +20,20 @@
 
 ## <img src="https://img.icons8.com/fluency/48/000000/user-male-circle.png" width="30px"/> About Me
 
-```typescript
-const david = {
-    role: "Full-Stack Developer & AI/ML Enthusiast",
-    education: "Computer Science and Engineering (AI & ML)",
-    institution: "Kalaignar Karunanidhi Institute of Technology",
-    location: "India",
-    focus: ["Intelligent Systems", "Scalable Architectures", "Web Solutions"],
-    currentlyLearning: ["System Design", "Advanced ML", "Cloud Architecture"],
-    philosophy: "Always curious, always learning — building technology that makes a difference."
-};
-```
-
+### About Me
+- **Role:** Full-Stack Developer & AI/ML Enthusiast
+- **Education:** Computer Science and Engineering (AI & ML)
+- **Institution:** Kalaignar Karunanidhi Institute of Technology
+- **Location:** India
+- **Focus Areas:**
+  - Intelligent Systems
+  - Scalable Architectures
+  - Web Solutions
+- **Currently Learning:**
+  - System Design
+  - Advanced ML
+  - Cloud Architecture
+- **Philosophy:** Always curious, always learning — building technology that makes a difference.
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/000000/code.png" width="30px"/> Technical Stack
