@@ -80,20 +80,3 @@ A full-stack platform that connects influencers and brands for collaboration opp
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
 
 ---
-
-## 📚 Learning Goals
-- Advanced AI/ML architectures and algorithms  
-- Scalable backend system design  
-- Full-stack web app optimization  
-- Secure software engineering practices  
-
----
-
-## ✨ Fun Fact
-I blend creativity with code — building projects that merge **engineering precision** with **human-centric design**.
-
----
-
-<p align="center">
-  Made with ❤️ by David Vensilin R
-</p>
