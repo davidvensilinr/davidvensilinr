@@ -175,12 +175,18 @@
 
 </div>
 
-### <img src="https://img.icons8.com/fluency/48/000000/pie-chart.png" width="25px"/> Problem Distribution Analysis
+### <img src="https://img.icons8.com/fluency/48/000000/pie-chart.png" width="25px"/> Problem Analysis & Language Proficiency
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### Problem Distribution
+
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}, 'chart': {'width': '100%', 'height': '300px'}}}%%
 pie title Problem Solving Distribution
     "DSA (LeetCode)" : 443
     "Competitive (CodeChef)" : 431
@@ -190,11 +196,13 @@ pie title Problem Solving Distribution
     "Competitive (Codeforces)" : 4
 ```
 
-</div>
+</td>
+<td width="50%" align="center">
 
-### <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="25px"/> Programming Language Proficiency
+#### Language Proficiency
 
-<div align="center">
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}, 'chart': {'width': '100%', 'height': '300px'}}}%%
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
