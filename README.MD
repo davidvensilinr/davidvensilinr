@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://your-banner-url-here.com/banner.png" alt="David Vensilin R Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=David%20Vensilin%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
-
-<h1 align="center">David Vensilin R</h1>
 
 <p align="center">
   <strong>Computer Science and Engineering (AI & ML) Student | Full-Stack Developer | AI Enthusiast</strong>
