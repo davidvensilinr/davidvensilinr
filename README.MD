@@ -79,11 +79,11 @@ A full-stack platform that connects influencers and brands for collaboration opp
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
 
-### <img src="https://img.icons8.com/ios-filled/24/20C997/project.png" alt="project icon" /> [Code Buddy](https://github.com/davidvensilinr/code_buddy)  
+### <img src="https://img.icons8.com/ios-filled/24/20C997/project.png" alt="project icon" /> [Code Vulnerability Scanner](https://github.com/davidvensilinr/code_vulnerability_scanner)  
 **Python Code Vulnerability Scanner**  
-A tool that analyzes Python code to detect security vulnerabilities and potential risks, helping developers write safer code.  
+A tool that analyzes Python code to detect security vulnerabilities and potential risks, helping developers write safer and more secure code.  
 
-🔗 [View Project](https://github.com/davidvensilinr/code_buddy)  
+🔗 [View Project](https://github.com/davidvensilinr/code_vulnerability_scanner)  
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/code_buddy?style=flat-square&color=20C997&logo=github)  
-![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/code_buddy?style=flat-square&color=20C997&logo=github)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
+![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
