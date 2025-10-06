@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=David%20Vensilin%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20C997&height=180&section=header&text=David%20Vensilin%20R&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
+
 
 <p align="center">
   <strong>Computer Science and Engineering (AI & ML) Student | Full-Stack Developer | AI Enthusiast</strong>
