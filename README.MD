@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-banner-url-here.com/banner.png" alt="David Vensilin R Banner" width="100%" />
+</p>
+
 <h1 align="center">David Vensilin R</h1>
 
 <p align="center">
