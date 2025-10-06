@@ -108,3 +108,45 @@ A Python-based tool designed to analyze code for vulnerabilities and potential e
 🔗 [View Project](https://github.com/davidvensilinr/code_vulnerability_scanner)  
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/code_vulnerability_scanner?style=flat-square&color=20C997&logo=github)  
+
+<!-- Codolio Card -->
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-filled/28/20C997/combo-chart--v1.png" alt="Codolio" /> Codolio Profile
+</h2>
+
+<div align="center" style="border:2px solid #20C997; border-radius:12px; padding:20px; max-width:800px; background:#f9f9f9; box-shadow:0px 4px 12px rgba(0,0,0,0.1);">
+  <h3 style="margin-bottom:5px;">David Vensilin R</h3>
+  <p style="margin:0; color:gray;">@david_vensilin | India</p>
+  <p style="margin-top:5px; font-size:14px; color:#555;">Kalaignar Karunanidhi Institute of Technology</p>
+
+  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+  <h4 style="color:#20C997;">📊 Problem Solving Stats</h4>
+  <table style="width:100%; text-align:center; font-size:14px; border-collapse:collapse;">
+    <tr style="background:#e8f5f2;">
+      <th>Platform</th>
+      <th>Questions</th>
+    </tr>
+    <tr><td>LeetCode</td><td>1</td></tr>
+    <tr><td>CodeChef</td><td>58</td></tr>
+    <tr><td>CodeForces</td><td>1</td></tr>
+  </table>
+
+  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+  <h4 style="color:#20C997;">🏆 Development Stats</h4>
+  <table style="width:100%; text-align:left; font-size:14px;">
+    <tr><td>Global Rank:</td><td><b>5265</b></td></tr>
+    <tr><td>Profile Views:</td><td><b>48</b></td></tr>
+    <tr><td>Total Questions:</td><td><b>1005</b></td></tr>
+    <tr><td>Total Active Days:</td><td><b>227</b></td></tr>
+    <tr><td>Submissions:</td><td><b>812</b></td></tr>
+    <tr><td>Max Streak:</td><td><b>22</b></td></tr>
+    <tr><td>Current Streak:</td><td><b>0</b></td></tr>
+    <tr><td>Total Contests:</td><td><b>60</b></td></tr>
+  </table>
+
+  <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+  <p style="font-size:14px; color:gray;">Last Refresh: 06 Oct 2025 | Profile Visibility: Public</p>
+</div>
