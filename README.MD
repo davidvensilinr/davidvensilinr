@@ -80,59 +80,71 @@ A full-stack platform that connects influencers and brands for collaboration opp
 ![GitHub Stars](https://img.shields.io/github/stars/davidvensilinr/digi_scaler1?style=flat-square&color=20C997&logo=github)  
 
 ---
-<!-- Codolio Style Stats Card for GitHub README -->
-<div align="center" style="font-family: Arial, sans-serif; max-width: 700px; border: 1px solid #ddd; border-radius: 10px; padding: 20px; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+<!-- Codolio Style Professional Stats Card -->
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; border: 1px solid #ddd; border-radius: 15px; padding: 20px; background: #fdfdfd; box-shadow: 0 4px 10px rgba(0,0,0,0.1)">
 
-<h2 style="margin-bottom: 5px;">🎴 Codolio Stats Card</h2>
-<h3 style="margin-top: 0;">David Vensilin R (@david_vensilin)</h3>
-<p>📍 India • 🎓 Kalaignar Karunanidhi Institute of Technology</p>
+  <!-- Header -->
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+    <div>
+      <h2 style="margin: 0;">🎴 Codolio Stats Card</h2>
+      <h3 style="margin: 2px 0;">David Vensilin R (@david_vensilin)</h3>
+      <p style="margin: 2px;">📍 India • 🎓 Kalaignar Karunanidhi Institute of Technology</p>
+    </div>
+    <div>
+      <img src="https://cdn-icons-png.flaticon.com/512/1250/1250615.png" alt="Codolio Logo" width="60" />
+    </div>
+  </div>
 
-<hr style="margin: 15px 0;">
+  <hr style="margin: 15px 0; border: 0; border-top: 1px solid #eee;">
 
-<div style="display: flex; justify-content: space-around; text-align: center; flex-wrap: wrap;">
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="30" alt="LeetCode">
-    <p><b>LeetCode</b><br>1</p>
+  <!-- Stats Grid -->
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <!-- Platform Stats -->
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h4 style="text-align: center;">Platform Stats</h4>
+      <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+        <div style="text-align: center; margin: 5px;">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="30" alt="LeetCode">
+          <p><b>LeetCode</b><br>1</p>
+        </div>
+        <div style="text-align: center; margin: 5px;">
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="30" alt="CodeChef">
+          <p><b>CodeChef</b><br>58</p>
+        </div>
+        <div style="text-align: center; margin: 5px;">
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" alt="CodeForces">
+          <p><b>CodeForces</b><br>1</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Performance Stats -->
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h4 style="text-align: center;">Performance Stats</h4>
+      <div style="display: flex; flex-direction: column; gap: 8px; text-align: center;">
+        <p><b>Global Rank:</b> #5265</p>
+        <p><b>Profile Views:</b> 48</p>
+        <p><b>Total Questions:</b> 1005</p>
+        <p><b>Total Active Days:</b> 227</p>
+        <p><b>Max Streak:</b> 22</p>
+        <p><b>Current Streak:</b> 0</p>
+      </div>
+    </div>
+
+    <!-- Contests -->
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h4 style="text-align: center;">Contests</h4>
+      <div style="display: flex; flex-direction: column; gap: 8px; text-align: center;">
+        <p><b>Total Contests:</b> 60</p>
+        <p><b>LeetCode:</b> 1</p>
+        <p><b>CodeChef:</b> 58</p>
+        <p><b>CodeForces:</b> 1</p>
+      </div>
+    </div>
   </div>
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="30" alt="CodeChef">
-    <p><b>CodeChef</b><br>58</p>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" alt="CodeForces">
-    <p><b>CodeForces</b><br>1</p>
-  </div>
+
+  <hr style="margin: 15px 0; border: 0; border-top: 1px solid #eee;">
+
+  <p style="text-align: center; font-size: 0.9em; color: #555;">Last Refresh: 06 Oct 2025 | Profile Visibility: Public</p>
+
 </div>
-
-<hr style="margin: 15px 0;">
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Global Rank</b><br>#5265</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Profile Views</b><br>48</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Total Questions</b><br>1005</p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Total Active Days</b><br>227</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Max Streak</b><br>22</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <p><b>Current Streak</b><br>0</p>
-  </div>
-</div>
-
-<hr style="margin: 15px 0;">
-
-<p style="text-align: center;">📅 <b>Total Contests:</b> 60</p>
-
-</div>
-
