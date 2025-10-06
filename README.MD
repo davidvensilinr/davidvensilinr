@@ -36,28 +36,36 @@
 
 ## 📊 GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=0A66C2&text_color=333333" height="160" />
-</p>
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+
+  <div style="background: linear-gradient(135deg, #0A66C2, #1e3a8a); border-radius:15px; padding:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff" height="160" style="border-radius:10px;" />
+  </div>
+
+  <div style="background: linear-gradient(135deg, #00c6ff, #0072ff); border-radius:15px; padding:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=ffffff&text_color=ffffff" height="160" style="border-radius:10px;" />
+  </div>
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=0A66C2&line=0A66C2&hide_border=true" />
-</p>
+<div align="center" style="background: linear-gradient(135deg, #ff8a00, #e52e71); padding:15px; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=0A66C2&line=0A66C2&hide_border=true" style="border-radius:10px;" />
+</div>
 
 ---
+
 
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/davidvensilinr" target="_blank">
+  <a href="https://www.linkedin.com/in/david-vensilin-r-5262642a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/DavidVensilinR" target="_blank">
+  <a href="https://github.com/davidVensilinr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:kit27.am11@gmail.com">
