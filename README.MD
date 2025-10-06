@@ -175,41 +175,6 @@
 
 </div>
 
-### <img src="https://img.icons8.com/fluency/48/000000/pie-chart.png" width="25px"/> Problem Analysis & Language Proficiency
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### Problem Distribution
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}, 'chart': {'width': '100%', 'height': '300px'}}}%%
-pie title Problem Solving Distribution
-    "DSA (LeetCode)" : 443
-    "Competitive (CodeChef)" : 431
-    "Fundamentals (CodeStudio)" : 127
-    "HackerRank" : 66
-    "GeeksForGeeks" : 61
-    "Competitive (Codeforces)" : 4
-```
-
-</td>
-<td width="50%" align="center">
-
-#### Language Proficiency
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#20C997','primaryTextColor':'#fff','primaryBorderColor':'#20C997','lineColor':'#20C997','secondaryColor':'#006100','tertiaryColor':'#fff'}, 'chart': {'width': '100%', 'height': '300px'}}}%%
-pie title Most Used Languages
-    "C" : 431
-    "Python" : 350
-    "Java" : 224
-```
-
-</div>
 
 ### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25px"/> Achievements & Recognition
 
