@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=20C997&height=200&section=header&text=David%20Vensilin%20R&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20Technology%20That%20Matters&descAlign=center&descSize=18&descColor=ffffff" alt="banner" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
 </p>
 
-
 <p align="center">
   <strong>Computer Science and Engineering (AI & ML) Student | Full-Stack Developer | AI Enthusiast</strong>
 </p>
@@ -14,10 +13,13 @@
 
 ---
 
-<h2>
-  <img src="https://img.icons8.com/material-outlined/28/20C997/code.png" alt="Technical Stack" /> Technical Stack
-</h2>
+## 💻 About Me
+I’m David Vensilin R — a lifelong learner with a passion for technology.  
+Currently focusing on full-stack development and AI/ML projects, with a deep interest in scalable architectures and intelligent systems.
 
+---
+
+## 🛠 Technical Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,22 +31,14 @@
 
 ---
 
-<h2>
-  <img src="https://img.icons8.com/material-outlined/28/20C997/target.png" alt="Current Focus" /> Current Focus
-</h2>
-
-- Developing robust **full-stack applications**  
-- Exploring **AI/ML** to build intelligent systems  
-- Enhancing skills in **system design** and **scalable architecture**
+## 🎯 Current Focus
+- Developing **robust full-stack applications**  
+- Building **AI/ML-based intelligent systems**  
+- Mastering **system design** and **scalable architecture**
 
 ---
----
 
-<!-- Connect With Me -->
-<h2 align="center">
-  <img src="https://img.icons8.com/ios-filled/28/20C997/link.png" alt="Connect With Me" /> Connect With Me
-</h2>
-
+## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/davidvensilinr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -60,37 +54,22 @@
 
 ---
 
----
-
-<!-- GitHub Insights -->
-<h2 align="center">
-  <img src="https://img.icons8.com/ios-filled/28/20C997/combo-chart--v1.png" alt="GitHub Insights" /> GitHub Insights
-</h2>
-
+## 📊 GitHub Insights
 <p align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
-  <!-- Main Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=radical&hide_border=true&title_color=20C997&icon_color=20C997&text_color=333333&border_radius=12" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
-
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=radical&hide_border=true&title_color=20C997&text_color=333333&border_radius=12" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
-
-  <!-- Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVensilinR&theme=radical&hide_border=true&stroke=20C997&background=0D1117&ring=20C997&fire=20C997&currStreakLabel=20C997" height="200" style="border-radius:15px;box-shadow:0px 6px 15px rgba(0,0,0,0.3)"/>
 </p>
 
-
 ---
 
-<!-- Contribution Activity -->
-<h2 align="center">
-  <img src="https://img.icons8.com/ios-filled/28/20C997/activity-history.png" alt="Contribution Activity" /> Contribution Activity
-</h2>
-
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=react-dark&color=20C997&line=20C997&hide_border=true" style="border-radius:12px;box-shadow:0px 4px 10px rgba(0,0,0,0.2)"/>
 </p>
 
 ---
+
 ## 💼 Projects
 
 ### <img src="https://img.icons8.com/ios-filled/24/20C997/project.png" alt="project icon" /> [DigiScaler1](https://github.com/davidvensilinr/digi_scaler1)  
@@ -102,3 +81,19 @@ A full-stack platform that connects influencers and brands for collaboration opp
 
 ---
 
+## 📚 Learning Goals
+- Advanced AI/ML architectures and algorithms  
+- Scalable backend system design  
+- Full-stack web app optimization  
+- Secure software engineering practices  
+
+---
+
+## ✨ Fun Fact
+I blend creativity with code — building projects that merge **engineering precision** with **human-centric design**.
+
+---
+
+<p align="center">
+  Made with ❤️ by David Vensilin R
+</p>
