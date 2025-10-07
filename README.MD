@@ -114,7 +114,7 @@
 <sub>Easy</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/medium-difficulty.png" width="60px"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/medium-connection.png" width="60px"/><br/>
 <h3>223</h3>
 <sub>Medium</sub>
 </td>
