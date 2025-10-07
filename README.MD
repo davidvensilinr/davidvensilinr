@@ -206,22 +206,14 @@ An intelligent Python security analysis tool that identifies vulnerabilities and
 </div>
 
 ---
-
 ## <img src="https://img.icons8.com/fluency/48/000000/analytics.png" width="30px"/> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=tokyonight&hide_border=true&title_color=20C997&icon_color=20C997&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVensilinR&layout=compact&theme=tokyonight&hide_border=true&title_color=20C997&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVensilinR&theme=tokyonight&hide_border=true&stroke=20C997&background=0d1117&ring=20C997&fire=20C997&currStreakLabel=20C997&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## <img src="https://img.icons8.com/fluency/48/000000/activity-history.png" width="30px"/> Contribution Graph
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
+  </picture>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=tokyo-night&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&bg_color=0d1117&radius=10" alt="Contribution Graph"/>
 </div>
