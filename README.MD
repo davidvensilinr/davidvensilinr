@@ -214,9 +214,11 @@ An intelligent Python security analysis tool that identifies vulnerabilities and
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
   </picture>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=tokyo-night&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&bg_color=0d1117&radius=10" alt="Contribution Graph"/>
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=tokyo-night&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&bg_color=0d1117&radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=github-light&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&radius=10">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
+  </picture>
 
 ---
 
