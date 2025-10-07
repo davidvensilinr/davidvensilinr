@@ -101,27 +101,32 @@
 
 <div align="center">
 
-#### DSA (LeetCode)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/check-all.png" width="60px"/><br/>
+<h3>443</h3>
+<sub>Total Problems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/checkmark.png" width="60px"/><br/>
+<h3>203</h3>
+<sub>Easy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/medium-difficulty.png" width="60px"/><br/>
+<h3>223</h3>
+<sub>Medium</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/high-risk.png" width="60px"/><br/>
+<h3>17</h3>
+<sub>Hard</sub>
+</td>
+</tr>
+</table>
 
-![DSA](https://img.shields.io/badge/Total-443-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
-
-<div style="margin: 10px 0;">
-  <img src="https://img.shields.io/badge/Easy-203-5CB85C?style=flat-square&logo=leetcode&logoColor=white" alt="Easy" style="margin: 2px;"/>
-  <img src="https://img.shields.io/badge/Medium-223-F0AD4E?style=flat-square&logo=leetcode&logoColor=white" alt="Medium" style="margin: 2px;"/>
-  <img src="https://img.shields.io/badge/Hard-17-D9534F?style=flat-square&logo=leetcode&logoColor=white" alt="Hard" style="margin: 2px;"/>
 </div>
-
----
-
-##### CodeChef
-
-![CodeChef](https://img.shields.io/badge/Problems-431-5B4638?style=flat-square&logo=codechef&logoColor=white)
-
----
-
-##### Codeforces
-
-![Codeforces](https://img.shields.io/badge/Problems-4-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
 
 </td>
 </tr>
