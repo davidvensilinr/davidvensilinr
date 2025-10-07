@@ -84,7 +84,7 @@
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/submit-progress.png" width="60px"/><br/>
-<h3>812</h3>
+<h3>1000+</h3>
 <sub>Total Submissions</sub>
 </td>
 <td align="center" width="25%">
