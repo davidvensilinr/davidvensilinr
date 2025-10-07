@@ -123,11 +123,11 @@
 
 #### DSA (LeetCode)
 
-![DSA](https://img.shields.io/badge/Total-443-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/Total-683-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
 
 <div style="margin: 10px 0;">
-  <img src="https://img.shields.io/badge/Easy-203-5CB85C?style=flat-square&logo=leetcode&logoColor=white" alt="Easy" style="margin: 2px;"/>
-  <img src="https://img.shields.io/badge/Medium-223-F0AD4E?style=flat-square&logo=leetcode&logoColor=white" alt="Medium" style="margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Easy-443-5CB85C?style=flat-square&logo=leetcode&logoColor=white" alt="Easy" style="margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Medium-203-F0AD4E?style=flat-square&logo=leetcode&logoColor=white" alt="Medium" style="margin: 2px;"/>
   <img src="https://img.shields.io/badge/Hard-17-D9534F?style=flat-square&logo=leetcode&logoColor=white" alt="Hard" style="margin: 2px;"/>
 </div>
 
