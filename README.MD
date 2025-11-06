@@ -97,7 +97,7 @@
 
 </div>
 
-### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25px"/> Problems Solved
+### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25px"/> Competitive Problems Solved
 
 <div align="center">
 
@@ -106,7 +106,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/check-all.png" width="60px"/><br/>
 <h3>444</h3>
-<sub>Competitive Problems Solved</sub>
+<sub>Total</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/checkmark.png" width="60px"/><br/>
