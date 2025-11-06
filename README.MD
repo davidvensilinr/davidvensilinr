@@ -35,20 +35,6 @@
 - **Philosophy:** Always curious, always learning — building technology that makes a difference.
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/github.png" width="30px"/> GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DavidVensilinR&theme=vue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1FA2FF%2C12D8FA%2CA6FFCB&fire=FFD700&ring=20C997&stroke=20C997&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=20C997&sideLabels=FFFFFF&dates=FFFFFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=vue&hide_border=true&border_radius=10&bg_color=45,1FA2FF,12D8FA,A6FFCB&title_color=FFFFFF&text_color=FFFFFF&icon_color=20C997)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=vue&bg_color=0D1117&color=20C997&line=1FA2FF&point=12D8FA&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph)
-
-</div>
-
----
-
 ## <img src="https://img.icons8.com/fluency/48/000000/code.png" width="30px"/> Technical Stack
 
 <div align="center">
@@ -223,11 +209,19 @@ An intelligent Python security analysis tool that identifies vulnerabilities and
 ## <img src="https://img.icons8.com/fluency/48/000000/analytics.png" width="30px"/> GitHub Analytics
 
 <div align="center">
+  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=DavidVensilinR&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
   </picture>
+
+  <!-- Total Contributions Counter -->
+  <div align="center" style="margin: 15px 0;">
+    <a href="https://github.com/DavidVensilinR">
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDavidVensilinR%2Fgithub-contributions-counter%2Fmaster%2Ftotal_contributions.json&style=for-the-badge&color=20C997&label=Total%20Contributions" alt="Total Contributions">
+    </a>
+  </div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=tokyo-night&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&bg_color=0d1117&radius=10">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DavidVensilinR&theme=github-light&color=20C997&line=20C997&point=20C997&area=true&hide_border=true&radius=10">

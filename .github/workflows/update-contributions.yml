@@ -1,0 +1,53 @@
+name: Update Contributions Counter
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Get GitHub Contributions
+      id: get_contributions
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Install required packages
+        pip install requests python-dateutil
+        
+        # Get contributions count using GitHub API
+        RESPONSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/users/DavidVensilinR/events?per_page=100")
+        
+        # Count unique contribution days
+        CONTRIBUTION_DAYS=$(echo "$RESPONSE" | jq -r '.[].created_at | split("T")[0]' | sort -u | wc -l)
+        
+        # Create a JSON file with the count
+        mkdir -p github-contributions-counter
+        echo "{\"schemaVersion\": 1, \"label\": \"Total Contributions\", \"message\": \"$CONTRIBUTION_DAYS\", \"color\": \"20C997\"}" > github-contributions-counter/total_contributions.json
+        
+        # Output the count for the workflow
+        echo "total_contributions=$CONTRIBUTION_DAYS" >> $GITHUB_OUTPUT
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action"
+        git add github-contributions-counter/total_contributions.json
+        git diff --quiet && git diff --staged --quiet || \
+          (git commit -m "chore: update contributions counter [skip ci]" && \
+           git push)
