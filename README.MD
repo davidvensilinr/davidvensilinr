@@ -105,7 +105,7 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/check-all.png" width="60px"/><br/>
-<h3>443</h3>
+<h3>444</h3>
 <sub>Competitive Problems Solved</sub>
 </td>
 <td align="center" width="25%">
