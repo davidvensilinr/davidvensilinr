@@ -219,7 +219,7 @@ An intelligent Python security analysis tool that identifies vulnerabilities and
   <!-- Total Contributions Counter -->
   <div align="center" style="margin: 15px 0;">
     <a href="https://github.com/DavidVensilinR">
-      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDavidVensilinR%2Fgithub-contributions-counter%2Fmaster%2Ftotal_contributions.json&style=for-the-badge&color=20C997&label=Total%20Contributions" alt="Total Contributions">
+      <img src="https://img.shields.io/badge/Total_Contributions-228-20C997?style=for-the-badge" alt="Total Contributions: 228">
     </a>
   </div>
   <picture>
