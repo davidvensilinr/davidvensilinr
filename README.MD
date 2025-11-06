@@ -106,7 +106,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/check-all.png" width="60px"/><br/>
 <h3>443</h3>
-<sub>Total Problems</sub>
+<sub>Competitive Problems Solved</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/checkmark.png" width="60px"/><br/>
