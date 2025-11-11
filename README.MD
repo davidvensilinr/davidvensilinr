@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Computer Science & Engineering (AI & ML) | Full-Stack Developer | AI Enthusiast
+### Computer Science & Engineering (AI & ML) | Full-Stack Developer | AI-Enthusiast
 
 <p>
   <em>Passionate about designing intelligent systems and building scalable web solutions.<br/>
